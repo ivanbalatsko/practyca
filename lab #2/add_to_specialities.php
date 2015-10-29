@@ -2,7 +2,6 @@
 <?php
 include ('database.php');
 
-// передаємо змінній user_name значення глобального масиву POST
  $spec_id = $_POST['spec_id'];
  $spec_code = $_POST['spec_code']; 
  $spec_name = $_POST['spec_name']; 
