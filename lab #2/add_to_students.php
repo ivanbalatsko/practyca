@@ -2,7 +2,6 @@
 <?php
 include ('database.php');
 
-// передаємо змінній user_name значення глобального масиву POST 
  $student_id = $_POST['student_id'];
  $group_id = $_POST['group_id']; 
  $student_surname = $_POST['student_surname'];
