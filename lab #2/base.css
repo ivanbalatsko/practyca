@@ -110,17 +110,17 @@ table {
     width: 400px; /* Ширина таблицы */
     border: 1px solid #69C; /* Рамка вокруг таблицы */
    }
-
-.delete_groups{
-    position: absolute;
-    width: 400px; /* Ширина таблицы */
-    border: 1px solid #69C; /* Рамка вокруг таблицы */
-    margin-left: 410px; /* Выравниваем таблицу по центру окна  */
-   }
-
 .delete_specialities{
     position: absolute;
     width: 400px; /* Ширина таблицы */
     border: 1px solid #69C; /* Рамка вокруг таблицы */
-    margin-left: 820px; /* Выравниваем таблицу по центру окна  */
+    margin-left: 440px; /* Выравниваем таблицу по центру окна  */
    }
+   
+.delete_groups{
+    position: absolute;
+    width: 400px; /* Ширина таблицы */
+    border: 1px solid #69C; /* Рамка вокруг таблицы */
+    margin-left: 1000px; /* Выравниваем таблицу по центру окна  */
+   }
+
