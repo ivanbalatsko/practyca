@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="base.css">
+    <title>Test Results</title>
+</head>
+
+<body>
+
+<!-- Main -->
+<div id="main">
+    <div id="menu">
+        <ul id="mainNav">
+            <li><a href="index.html">Головна</a></li> 
+            <li><a href="show_data.php">Видача даних</a></li>
+            <li><a href="add.html">Занесення даних</a></li>
+            <li><a href="delete_data.php">Видалення даних</a></li>
+        </ul>
+    </div>
+</div>
+
+<br>
+
+<div class="conteiner">
+    <form action="add_to_groups.php"  method="post">
+            <p>ID групи: <input type="text" name="group_id" /></p>
+            <p>Назва групи: <input type="text" name="group_name" /></p>
+            <p>ID спеціальності: <input type="text" name="spec_id" /></p>
+            <p>
+                <input type="submit" value="Внести" title="Відправити">
+                <input type="reset" name="reset" value="Очистити">
+            </p>
+    </form>
+</div>
+
+
+<!-- /Main -->
+
+</body>
+</html>
