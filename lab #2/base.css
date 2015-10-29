@@ -87,40 +87,40 @@ table {
 
 .students{
     position: absolute;
-    width: 400px; /* Ширина таблицы */
-    border: 1px solid #69C; /* Рамка вокруг таблицы */
+    width: 400px; 
+    border: 1px solid #69C;
    }
 
 .groups{
     position: absolute;
-    width: 400px; /* Ширина таблицы */
-    border: 1px solid #69C; /* Рамка вокруг таблицы */
-    margin-left: 410px; /* Выравниваем таблицу по центру окна  */
+    width: 400px; 
+    border: 1px solid #69C;
+    margin-left: 410px; 
    }
 
 .specialities{
     position: absolute;
-    width: 400px; /* Ширина таблицы */
-    border: 1px solid #69C; /* Рамка вокруг таблицы */
-    margin-left: 820px; /* Выравниваем таблицу по центру окна  */
+    width: 400px; 
+    border: 1px solid #69C; 
+    margin-left: 820px; 
    }
 
 .delete_students{
     position: absolute;
-    width: 400px; /* Ширина таблицы */
-    border: 1px solid #69C; /* Рамка вокруг таблицы */
+    width: 400px; 
+    border: 1px solid #69C; 
    }
 .delete_specialities{
     position: absolute;
-    width: 400px; /* Ширина таблицы */
-    border: 1px solid #69C; /* Рамка вокруг таблицы */
-    margin-left: 440px; /* Выравниваем таблицу по центру окна  */
+    width: 400px; 
+    border: 1px solid #69C; 
+    margin-left: 440px; 
    }
    
 .delete_groups{
     position: absolute;
-    width: 400px; /* Ширина таблицы */
-    border: 1px solid #69C; /* Рамка вокруг таблицы */
-    margin-left: 1000px; /* Выравниваем таблицу по центру окна  */
+    width: 400px; 
+    border: 1px solid #69C; 
+    margin-left: 1000px; 
    }
 
