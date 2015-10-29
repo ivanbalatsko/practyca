@@ -1,1 +1,1 @@
-# Lab work #1
+# Practyca
